@@ -1,0 +1,59 @@
+:root{
+    font-family: "Sora", sans-serif;
+}
+
+body{
+    background:#FAFAF9;
+}
+.container{
+    max-width: 368px;
+    margin: 164px auto;
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+    background: #FFFFFF;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+img{
+    width: 336px;
+    height: 152px;
+    padding: 16px 16px;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.tag{
+    color: #883AE1;
+    background-color: #E6D6FC;
+    margin: 16px 16px;
+    border-radius: 50px;
+    padding: 5px 15px 5px 15px;
+    font-size: 10px;
+}
+
+h1{
+    /* margin:top rigth bottom left */
+    font-size: 18px;
+    margin: 16px 16px 6px 16px;
+    color: #20293A
+}
+
+.parrafo{
+    /* margin:top rigth bottom left */
+    margin: 0 16px 20px 16px;  
+    color: #6C727F
+}
+
+hr{
+    color: #20293A
+}
+
+.name { 
+    padding: 20px 16px 20px 16px;
+    font-size: 12px;
+    color: #6C727F
+}
+
+.space {
+    height: 20px;
+}
